@@ -21,7 +21,7 @@ button:hover{
 img{
     width: 50%;
     margin-left: 20%;
-    transition .5s ease-in;
+    transition: .5s ease-in;
 }
 .container{
     margin-right: auto;
